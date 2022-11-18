@@ -6,6 +6,8 @@
 #include <vector>
 #include <string>
 
+// Hi!!!
+
 using namespace std;
 
 vector<vector<int>> H;
